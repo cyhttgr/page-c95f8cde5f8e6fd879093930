@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3f7894871f4e4c04aadef81c",
+  "owner": "cyhttgr",
+  "repo": "page-c95f8cde5f8e6fd879093930",
+  "title": "机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c95f8cde5f8e6fd879093930",
+      "a": "机场推荐",
+      "b": "",
+      "entity": "机场推荐",
+      "brand": "机场推荐",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c3fbed83c22423438c0a309d5524680a216fa359b73967a1a044c6297b23ff65",
+      "content": {
+        "keyword1": "机场推荐",
+        "keyword2": "",
+        "primary_entity": "机场推荐",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场推荐说明 VPN 网络加速订阅怎么选，比较基础版、旗舰版与团队版的流量、设备数和线路，并给出客户端官网下载与导入的通用步骤。",
+          "AI_DESCRIPTION": "机场推荐说明 VPN 网络加速订阅怎么选，比较基础版、旗舰版与团队版的流量、设备数和线路，并给出客户端官网下载与导入的通用步骤。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*,*::before,*::after{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#fff7f3;color:#2a211e;font-family:Georgia,\"Songti SC\",\"Noto Serif SC\",serif;font-size:17px;line-height:1.75}a{color:#b23b2a;text-decoration-thickness:1px;text-underline-offset:3px}a:hover{color:#8d2c1f}.wrap{width:min(1080px,calc(100% - 32px));margin:0 auto}.top{background:#fff;border-bottom:1px solid #f0d4cc}.top .wrap{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:14px 0}.brand{font-weight:700;letter-spacing:.04em;color:#2a211e;text-decoration:none}.nav{display:flex;flex-wrap:wrap;gap:12px 16px;font-size:15px}.nav a{text-decoration:none;color:#5c463f}main{padding:28px 0 56px}h1{font-size:clamp(1.8rem,4vw,2.5rem);line-height:1.25;margin:8px 0 12px}h2{font-size:1.45rem;line-height:1.35;margin:36px 0 12px;padding-top:8px}h3{font-size:1.08rem;margin:0 0 8px}.lede{font-size:1.08rem;color:#3d312d;max-width:46rem}.kicker{color:#c2412d;font-size:.92rem;letter-spacing:.08em;margin:0}.hero{display:grid;grid-template-columns:1.4fr .8fr;gap:24px;align-items:start}.panel{background:#fff;border:1px solid #f0d4cc;border-radius:16px;padding:18px 18px 8px}.panel li{margin:8px 0}.note{background:#fff1ea;border-left:4px solid #e15a45;padding:12px 14px;border-radius:8px}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.card{background:#fff;border:1px solid #f0d4cc;border-radius:16px;padding:18px;display:flex;flex-direction:column;gap:8px}.card.featured{border:2px solid #e15a45;background:#fffaf7;box-shadow:0 8px 24px rgba(225,90,69,.12)}.price{font-size:1.7rem;color:#c2412d;margin:0}.sub{color:#6b564f;margin:0}.list{margin:0;padding-left:1.1rem}.list li{margin:6px 0}.tag{display:inline-block;background:#e15a45;color:#fff;border-radius:999px;padding:2px 10px;font-size:.82rem;font-family:sans-serif}.cta{display:inline-block;margin-top:auto;background:#c2412d;color:#fff;text-decoration:none;text-align:center;border-radius:999px;padding:10px 14px}.cta.ghost{background:#fff;color:#c2412d;border:1px solid #e7b2a6}.steps{display:grid;grid-template-columns:1fr 1fr;gap:14px}.step{background:#fff;border-radius:14px;padding:14px 16px;border:1px solid #f0d4cc}.step span{display:inline-block;color:#c2412d;font-weight:700;margin-right:6px}details{background:#fff;border:1px solid #f0d4cc;border-radius:12px;padding:10px 14px;margin:10px 0}summary{cursor:pointer;font-weight:700}details p{margin:8px 0 4px}footer{border-top:1px solid #f0d4cc;padding:22px 0 36px;color:#6b564f;font-size:15px}@media(max-width:800px){.hero,.grid,.steps{grid-template-columns:1fr}.top .wrap{align-items:flex-start;flex-direction:column}}</style><header class=\"top\"><div class=\"wrap\"><a class=\"brand\" href=\"#top\">机场推荐</a><nav class=\"nav\" aria-label=\"页内导航\"><a href=\"#about\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">操作</a><a href=\"#faq\">问答</a></nav></div></header><main id=\"top\"><div class=\"wrap\"><p class=\"kicker\">官网说明 · 网络加速与客户端</p><div class=\"hero\"><div><h1>机场推荐：把 VPN 加速器与订阅选择说清楚</h1><p class=\"lede\">机场推荐把常见的 VPN 梯子网络加速需求整理成可比较的订阅方案，帮助你理解流量、设备数、线路类型和客户端下载之间的差别。本页是品牌介绍与使用说明，不替代各平台客户端自己的安装提示。</p><p>如果你只是偶尔查阅资料、远程办公或观看已购买的正版节目，先看使用场景和套餐边界，再决定是否需要更高带宽的线路。下载入口仅指向本页说明，请在自己的账户页面核对订阅信息后再导入客户端。</p></div><aside class=\"panel\"><h2>先看这三件事</h2><ul><li>套餐按月流量、同时在线设备和线路池区分，不是按“无限速度”区分。</li><li>客户端请从系统官方商店或品牌账户内的下载入口获取，避免来路不明的安装包。</li><li>年付是预付折扣，不改变当月流量额度的计算方式。</li></ul></aside></div><section id=\"about\"><h2>品牌简介</h2><p>机场推荐关注的是订阅制网络加速服务怎么选：基础线路适合网页与通讯，专线更适合对延迟敏感的游戏或视频会议。品牌页面用同一套口径说明基础版、旗舰版和团队版，方便个人与小团队对照，而不是堆砌节点名称。</p><p>页面中的价格、流量和设备数来自当前展示方案。实际可用地区、高峰时段速度和流媒体可用性会随线路维护变化，以下单页面或账户内公告为准。机场推荐不展示用户评分，也不把个例速度写成普遍承诺。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"steps\"><article class=\"step\"><h3>跨境办公与学习</h3><p>需要稳定访问文档、邮件和会议时，优先看同时在线设备数和晚高峰是否仍有余量。基础版适合单人轻量使用，旗舰版给经常开会的人留出更多设备。</p></article><article class=\"step\"><h3>正版流媒体</h3><p>解锁能力分为基础与全节点两类。只能说明线路是否面向常见流媒体平台优化，不能保证某一节目在所有地区、所有时间都能播放。</p></article><article class=\"step\"><h3>游戏与低延迟</h3><p>旗舰版提到的 IPLC 专线是面向游戏延迟的线路优化，不是外挂或修改游戏数据。是否适合某一款游戏，取决于游戏服务器位置和你的本地网络。</p></article><article class=\"step\"><h3>小团队共用</h3><p>团队版提高流量和设备上限，并提供路由定制与客户经理沟通。它适合公司统一采购，不适合把账户随意分发给不相关的人。</p></article></div></section><section id=\"plans\"><h2>套餐对比</h2><p>三档都按自然月计算流量。年付是一次支付十二个月的优惠价，流量仍按每月额度重置，不会把全年流量在第一个月一次性发放。</p><div class=\"grid\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"sub\">按年付仅需 ¥150/年</p><ul class=\"list\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta ghost\" href=\"#guide\">查看开通步骤</a></article><article class=\"card featured\"><span class=\"tag\">更常被选择</span><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"sub\">按年付仅需 ¥350/年</p><ul class=\"list\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#guide\">对照客户端说明</a></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"sub\">按年付仅需 ¥850/年</p><ul class=\"list\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta ghost\" href=\"#faq\">先看团队问答</a></article></div></section><section id=\"guide\"><h2>客户端下载与操作说明</h2><p>机场推荐的官网下载说明只描述通用流程。具体按钮名称会因 Windows、macOS、Android、iOS 和路由器客户端而不同。</p><div class=\"steps\"><article class=\"step\"><h3><span>1</span>确认系统</h3><p>在账户的客户端下载区域选择与设备一致的版本。优先使用应用商店上架的客户端；若商店没有，再使用账户页提供的安装包，并核对文件来源说明。</p></article><article class=\"step\"><h3><span>2</span>取得订阅</h3><p>付款后在账户里复制订阅地址或扫描账户给出的二维码。不要把订阅链接发到公开聊天室，它相当于账户的访问凭证。</p></article><article class=\"step\"><h3><span>3</span>导入并选择线路</h3><p>在客户端使用“从订阅导入”一类入口，更新节点列表后先选延迟较低的普通线路。需要游戏或视频会议时，再改选标注专线或高带宽的线路。</p></article><article class=\"step\"><h3><span>4</span>核对流量与设备</h3><p>连接后查看客户端或账户里的已用流量。超出同时在线设备数时，新设备可能把最早的会话挤下线，这是额度限制，不是客户端损坏。</p></article></div><p class=\"note\">本页链接都是页内说明，不提供第三方镜像。若安装包要求关闭系统安全保护、安装来源不明的描述文件，或索要与 VPN 无关的短信验证码，应停止操作并向账户内工单核实。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>机场推荐和单独购买一个加速器客户端有什么不同？</summary><p>客户端只是连接工具，订阅决定流量、设备数和线路池。机场推荐把订阅方案和客户端获取方式放在一起说明，避免只下载软件却没有可用额度。</p></details><details><summary>官网下载是否等于任意网站上的同名安装包？</summary><p>不是。请只使用账户内给出的入口或对应系统的应用商店。同名压缩包、论坛附件和私人网盘都不在本页推荐范围内。</p></details><details><summary>基础版的 100GB 够不够日常使用？</summary><p>浏览网页、邮件和文字消息通常较省流量；高清视频和大型下载会很快用完。若经常看视频或有多人共用，旗舰版或团队版的额度更合适。</p></details><details><summary>旗舰版的全节点流媒体解锁是否保证所有平台？</summary><p>不保证。它表示线路按常见流媒体做了优化，平台策略、节目版权地区和你的本地网络仍会影响播放。无法播放时应先更换线路，再查看账户公告。</p></details><details><summary>年付 ¥150、¥350、¥850 是什么含义？</summary><p>分别对应基础版、旗舰版和团队版一次支付一年的价格，约合每月低于单月价格。中途更换套餐或退款规则以账户协议为准，本页不另作承诺。</p></details><details><summary>团队版的企业定制路由会改动公司内网吗？</summary><p>只有在你们的网络负责人确认需求后才会讨论路由方案。它用于指定哪些访问走加速线路，不应绕过公司已有的安全策略，也不应用于未授权访问内部系统。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>机场推荐 · 订阅方案与客户端使用说明。价格与额度以账户当前方案为准。</p></div></footer>",
+          "hash": "bad003b8eda5949ffb5cea84aa3082e6bba0507609a7b4881f8ac8044b6d0450",
+          "seo": {
+            "title": "机场推荐：VPN 网络加速、加速器与客户端官网下载",
+            "keywords": "机场推荐,VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅",
+            "description": "机场推荐说明 VPN 网络加速订阅怎么选，比较基础版、旗舰版与团队版的流量、设备数和线路，并给出客户端官网下载与导入的通用步骤。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "donglanrc.cn",
+    "host": "p-773606c51d.donglanrc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "25d361f9c0c4418d09e7514be398b9ca24e295fbbea360103f9497eb4d49c806",
+    "sitemap.xml": "0389dec8ba40af1eb52bdb973b8c094f6049c565db3e6b36e6aafaed7fed0d69",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ff0d72801e1ea305e558b8a9bea7983fcd6052d09cbbdbf3de901661cd4f8367",
+    "robots.txt": "8c52dcfd71802f0ce4aecc23f0833ab11bcb3f25129e308a932d8e80ffe35585",
+    "be432a74b7fc4504db004d05b31a261c.txt": "c9d548fc977e6328ee76ccd145bafb8f1969acda79bfab179233c0a4898cb54d"
+  },
+  "revision": "fc2a69dc2cb3c658dcee04ab1d2526557d2e3a2c0e4d557de1ca73c8fea85a35"
+}
